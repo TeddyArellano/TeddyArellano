@@ -12,10 +12,9 @@
 ### 🧠 Sobre mí
 
 🎓 Estudiante de Ingeniería en Sistemas Computacionales en el **Instituto Politécnico Nacional (IPN)**  
-🤖 Apasionado por la inteligencia artificial, desarrollo de agentes y sistemas inteligentes  
-💻 Desarrollador full stack con experiencia en React, Node.js y bases de datos relacionales  
+🤖 Apasionado por la Inteligencia Artificial, desarrollo de agentes y sistemas inteligentes  
+💻 Desarrollador Full Stack con experiencia en React, Node.js y bases de datos relacionales  
 📊 Analista de datos con enfoque en Python, Excel y Power BI  
-🧑‍🏫 Instructor con experiencia enseñando Excel intermedio a empresas  
 📚 Siempre aprendiendo y buscando contribuir en proyectos tecnológicos innovadores
 
 ---
