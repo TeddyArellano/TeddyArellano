@@ -41,8 +41,8 @@
 
 ## 🚀 Mis Habilidades
 
-
-<p align="center">🧑‍💻 Lenguajes de programación 🧑‍💻
+<h3 align="center">🧑‍💻 Lenguajes de programación 🧑‍💻</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
@@ -54,7 +54,7 @@
 
 ---
 
-### 🛠️ IDEs y Herramientas
+<h3 align="center">🛠️ IDEs y Herramientas 🛠️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>&nbsp;
@@ -64,7 +64,7 @@
 
 ---
 
-### 🎨 Desarrollo Frontend
+<h3 align="center">🎨 Desarrollo Frontend 🎨</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
@@ -74,7 +74,7 @@
 
 ---
 
-### 🗄️ Bases de Datos
+<h3 align="center">🗄️ Bases de Datos 🗄️</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -82,7 +82,7 @@
 
 ---
 
-### 📊 Data Science y Visualización
+<h3 align="center">📊 Data Science y Visualización 📊</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;
