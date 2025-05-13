@@ -3,8 +3,9 @@
 <h3 align="center">🚀 Creador de Soluciones de Software | IA & Agentes Inteligentes | Full Stack | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Estudiante+de+Ingeniería+en+Sistemas;Apasionado+por+la+IA+y+el+desarrollo+web;Analista+de+Datos+y+constructor+de+agentes;Freelancer+en+proyectos+de+impacto" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Estudiante+de+Ingenieria+en+Sistemas;Apasionado+por+IA+y+desarrollo+web;Analista+de+Datos+y+agentes+inteligentes;Freelancer+en+proyectos+de+impacto" alt="Typing SVG" />
 </p>
+
 
 ---
 
