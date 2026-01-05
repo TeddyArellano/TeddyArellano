@@ -47,23 +47,6 @@
 
 ---
 
-### 💼 Experiencia Profesional
-
-**👨‍🏫 Technical Instructor** @ **Grupo ILCI** | *Jan 2025 - Present*  
-- Teaching advanced Excel, SQL, and Clean Code to ~100 corporate employees  
-- Focusing on data analysis, automation, query optimization, and maintainable software practices
-
-**💻 Full Stack Developer** @ **PrintaLab 3D** | *Mar 2025 - Aug 2025*  
-- Led development of full-stack e-commerce and online learning platform (70% completion)  
-- Designed architecture using React, Node.js, and PostgreSQL
-
-**🚀 Founder & E-Commerce Manager** @ **ShopWTM** | *Jan 2024 - Feb 2025*  
-- Founded online store specializing in digital gaming products  
-- Served 1,500+ customers in 13 months with a team of 5 collaborators  
-- Optimized marketing using Meta Ads analytics (CPC, CTR, CPA, ROAS) and GPT-based customer support automation
-
----
-
 ### 🌟 Leadership & Volunteering
 
 🏆 **[IBM Z Student Ambassador](https://www.linkedin.com/posts/jarellanojr_ibmz-ibm-studentambassador-activity-7373084641546670080-RHlJ)**  
