@@ -1,8 +1,8 @@
-<h1 align="center">👋 ¡Hola! Soy José Juan Arellano Juárez</h1>
+<h1 align="center">👋 ¡Hola! Soy Teddy Arellano</h1>
 <h3 align="center">Data & AI Engineer in the making · Full Stack Developer · STEM Content Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Strategy+Intern+%40+Sempra+Infraestructura;Computer+Systems+Engineering+%40+IPN-ESCOM;Data+Pipelines+%7C+Analytics+%7C+AI+Agents;STEM+Content+Creator+%40+%40teddyarellano;Building+data-driven+tech+for+real+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Systems+Engineering+%40+IPN-ESCOM;Data+Engineering+%7C+Analytics+%7C+AI+Agents;Full+Stack+Developer+%7C+Python+%7C+React;STEM+Content+Creator+%40+%40teddyarellano;Building+data-driven+tech+for+real+impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,41 +15,20 @@
 
 Soy **Teddy** — estudiante de **Ingeniería en Sistemas Computacionales** en el **IPN-ESCOM** (CDMX), apasionado por convertir datos en decisiones. Trabajo en la intersección entre el **análisis de datos**, la **ingeniería de software** y la **inteligencia artificial**, y disfruto compartir todo lo que aprendo con la comunidad STEM.
 
-<table>
-  <tr>
-    <td>🛰️</td><td><b>Rol actual</b></td><td>Data Strategy Intern @ Sempra Infraestructura</td>
-  </tr>
-  <tr>
-    <td>🎓</td><td><b>Estudios</b></td><td>Ing. en Sistemas Computacionales · IPN-ESCOM (CDMX) · Egreso Dic 2026</td>
-  </tr>
-  <tr>
-    <td>🎥</td><td><b>Content Creator</b></td><td>Comunidad STEM · vida universitaria · tech tips</td>
-  </tr>
-  <tr>
-    <td>⚡</td><td><b>Mentalidad</b></td><td>Aprender, construir y compartir 🚀</td>
+<table align="center">
+  <tr align="center">
+    <td width="33%"><h1>🎓</h1><h3>Estudios</h3>ISC @ IPN-ESCOM<br><sub>CDMX · Egreso Dic 2026</sub></td>
+    <td width="33%"><h1>📊</h1><h3>Enfoque</h3>Data · IA<br><sub>Full Stack Development</sub></td>
+    <td width="33%"><h1>🎥</h1><h3>Creador</h3>Comunidad STEM<br><sub>vida universitaria · tech tips</sub></td>
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Data_Engineering-00B4D8?style=flat-square&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Analytics_%26_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AI_%2F_LLM_Agents-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full_Stack-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data_Engineering-00B4D8?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Analytics_%26_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI_%2F_LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full_Stack-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-
----
-
-### 💼 Experiencia
-
-**🏢 Data Strategy Intern — Sempra Infraestructura** · *Feb 2026 – Actualidad · CDMX (Híbrido)*
-
-- **Automation & Engineering** — Diseño y despliegue de *pipelines* de datos automatizados con **Python** para procesar, transformar y limpiar grandes volúmenes de información, reduciendo significativamente el trabajo manual.
-- **Data Governance & Standardization** — Colaboración con equipos *cross-functional* para definir y aplicar políticas de gobernanza de datos, asegurando calidad, consistencia e integridad en los sistemas corporativos.
-- **Analytics & Visualization** — Desarrollo y mantenimiento de *dashboards* en **Power BI** con visibilidad en tiempo real de KPIs clave para la toma de decisiones a nivel corporativo.
-- **Reporting Infrastructure** — Liderazgo en la documentación y mantenimiento de fuentes de datos internas, creando metodologías escalables y guías de *reporting* para distintos departamentos.
-
-**👨‍🏫 Technical Instructor — Grupo ILCI**
-- Capacitación corporativa en **Excel, SQL y Clean Code** para equipos profesionales.
 
 ---
 
