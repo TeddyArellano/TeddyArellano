@@ -34,10 +34,10 @@ Soy **Teddy** — estudiante de **Ingeniería en Sistemas Computacionales** en e
 
 ### 🏆 Logros & Reconocimientos
 
-🥇 **1er Lugar — Claude Impact Lab CDMX**
+🥇 **[1er Lugar — Claude Impact Lab CDMX](https://www.linkedin.com/feed/update/urn:li:activity:7452090772432179200/)**
 > Construimos **[GeoJusticia](https://github.com/TeddyArellano/GeoJusticia-Claude-Impact-Lab-CDMX)**, una plataforma que usa datos de **Locatel (0311)** para transformar reportes ciudadanos en información territorial accionable, ayudando a las alcaldías a priorizar problemas urbanos y evitar reportes duplicados mediante analítica de datos. Construido en un solo día con datasets reales de gobierno. 🇲🇽
 
-🎖️ **IBM Z Student Ambassador**
+🎖️ **[IBM Z Student Ambassador](https://www.linkedin.com/feed/update/urn:li:activity:7373084641546670080/)**
 > Badges **IBM Z Concepts** y **Advanced** en tecnologías mainframe; promoción del *enterprise computing* a través de divulgación académica y en redes.
 
 🎓 **CETIEM — Student Program**
