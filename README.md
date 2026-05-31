@@ -126,10 +126,6 @@ Comparto mi día a día como estudiante de tecnología, consejos para programado
   <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyArellano&theme=tokyonight" />
   <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeddyArellano&theme=tokyonight" />
 </p>
-<p align="center">
-  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeddyArellano&theme=tokyonight" />
-  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeddyArellano&theme=tokyonight&utcOffset=-6" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeddyArellano&theme=tokyonight" />
