@@ -120,8 +120,15 @@ Comparto mi día a día como estudiante de tecnología, consejos para programado
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TeddyArellano&show_icons=true&theme=tokyonight&hide=prs,issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyArellano&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TeddyArellano&theme=tokyonight" />
+</p>
+<p align="center">
+  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyArellano&theme=tokyonight" />
+  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TeddyArellano&theme=tokyonight" />
+</p>
+<p align="center">
+  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TeddyArellano&theme=tokyonight" />
+  <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TeddyArellano&theme=tokyonight&utcOffset=-6" />
 </p>
 
 <p align="center">
