@@ -15,16 +15,27 @@
 
 Soy **Teddy** — estudiante de **Ingeniería en Sistemas Computacionales** en el **IPN-ESCOM** (CDMX), apasionado por convertir datos en decisiones. Trabajo en la intersección entre el **análisis de datos**, la **ingeniería de software** y la **inteligencia artificial**, y disfruto compartir todo lo que aprendo con la comunidad STEM.
 
-```python
-teddy = {
-    "rol_actual": "Data Strategy Intern @ Sempra Infraestructura",
-    "estudios": "Ing. en Sistemas Computacionales · IPN-ESCOM (CDMX)",
-    "graduacion": "Dic 2026",
-    "enfoque": ["Data Engineering", "Analytics & BI", "AI / LLM Agents", "Full Stack"],
-    "creador_de_contenido": "Comunidad STEM · vida universitaria · tech tips",
-    "mentalidad": "Aprender, construir y compartir 🚀",
-}
-```
+<table>
+  <tr>
+    <td>🛰️</td><td><b>Rol actual</b></td><td>Data Strategy Intern @ Sempra Infraestructura</td>
+  </tr>
+  <tr>
+    <td>🎓</td><td><b>Estudios</b></td><td>Ing. en Sistemas Computacionales · IPN-ESCOM (CDMX) · Egreso Dic 2026</td>
+  </tr>
+  <tr>
+    <td>🎥</td><td><b>Content Creator</b></td><td>Comunidad STEM · vida universitaria · tech tips</td>
+  </tr>
+  <tr>
+    <td>⚡</td><td><b>Mentalidad</b></td><td>Aprender, construir y compartir 🚀</td>
+  </tr>
+</table>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Engineering-00B4D8?style=flat-square&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Analytics_%26_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI_%2F_LLM_Agents-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full_Stack-339933?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
 
 ---
 
