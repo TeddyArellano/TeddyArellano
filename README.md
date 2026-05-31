@@ -1,8 +1,8 @@
 <h1 align="center">👋 ¡Hola! Soy José Juan Arellano Juárez</h1>
-<h3 align="center">🚀 Full Stack Developer | AI & Intelligent Agents | Data Analyst | Content Creator</h3>
+<h3 align="center">Data & AI Engineer in the making · Full Stack Developer · STEM Content Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Computer+Systems+Engineering+%40+IPN-ESCOM;Full+Stack+Developer+%7C+AI+Enthusiast;Technical+Instructor+%7C+Content+Creator;Building+impactful+tech+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Strategy+Intern+%40+Sempra+Infraestructura;Computer+Systems+Engineering+%40+IPN-ESCOM;Data+Pipelines+%7C+Analytics+%7C+AI+Agents;STEM+Content+Creator+%40+%40teddyarellano;Building+data-driven+tech+for+real+impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,24 +13,60 @@
 
 ### 🧠 Sobre mí
 
-🎓 **Computer Systems Engineering Student** @ **Instituto Politécnico Nacional (IPN-ESCOM)** | CGPA: 8.5/10 | Expected Graduation: Dec 2026  
-👨‍💻 **Technical Instructor** @ Grupo ILCI | Teaching Excel, SQL, and Clean Code to corporate teams  
-💻 **Full Stack Developer** | Experienced in React, Node.js, PostgreSQL, and RESTful APIs  
-🤖 **AI Enthusiast** | Building intelligent agents, LLM pipelines, and data-driven solutions  
-🎥 **Content Creator** | Sharing tech knowledge and insights @ [linktr.ee/teddyarellano](https://linktr.ee/teddyarellano)  
-📊 **Data Analysis Expert** | Proficient in Python, Advanced Excel, SQL, and data visualization  
-🚀 Former **Founder & E-Commerce Manager** @ ShopWTM | Served 1,500+ customers in 13 months
+Soy **Teddy** — estudiante de **Ingeniería en Sistemas Computacionales** en el **IPN-ESCOM** (CDMX), apasionado por convertir datos en decisiones. Trabajo en la intersección entre el **análisis de datos**, la **ingeniería de software** y la **inteligencia artificial**, y disfruto compartir todo lo que aprendo con la comunidad STEM.
+
+```python
+teddy = {
+    "rol_actual": "Data Strategy Intern @ Sempra Infraestructura",
+    "estudios": "Ing. en Sistemas Computacionales · IPN-ESCOM (CDMX)",
+    "graduacion": "Dic 2026",
+    "enfoque": ["Data Engineering", "Analytics & BI", "AI / LLM Agents", "Full Stack"],
+    "creador_de_contenido": "Comunidad STEM · vida universitaria · tech tips",
+    "mentalidad": "Aprender, construir y compartir 🚀",
+}
+```
 
 ---
 
-### 💼 Áreas de Enfoque
+### 💼 Experiencia
 
-- **Full Stack Development** | Building scalable web applications with modern frameworks
-- **Artificial Intelligence & Intelligent Agents** | LLM pipelines, automation, and smart systems
-- **Data Analysis & Visualization** | Advanced Excel, SQL, Python (Pandas, NumPy, Matplotlib)
-- **Technical Education & Training** | Corporate training in Excel, SQL, and Clean Code practices
-- **Content Creation** | Producing educational tech content and sharing industry insights
-- **E-Commerce & Business Analytics** | Data-driven marketing optimization (CPC, CTR, ROAS)
+**🏢 Data Strategy Intern — Sempra Infraestructura** · *Feb 2026 – Actualidad · CDMX (Híbrido)*
+
+- **Automation & Engineering** — Diseño y despliegue de *pipelines* de datos automatizados con **Python** para procesar, transformar y limpiar grandes volúmenes de información, reduciendo significativamente el trabajo manual.
+- **Data Governance & Standardization** — Colaboración con equipos *cross-functional* para definir y aplicar políticas de gobernanza de datos, asegurando calidad, consistencia e integridad en los sistemas corporativos.
+- **Analytics & Visualization** — Desarrollo y mantenimiento de *dashboards* en **Power BI** con visibilidad en tiempo real de KPIs clave para la toma de decisiones a nivel corporativo.
+- **Reporting Infrastructure** — Liderazgo en la documentación y mantenimiento de fuentes de datos internas, creando metodologías escalables y guías de *reporting* para distintos departamentos.
+
+**👨‍🏫 Technical Instructor — Grupo ILCI**
+- Capacitación corporativa en **Excel, SQL y Clean Code** para equipos profesionales.
+
+---
+
+### 🏆 Logros & Reconocimientos
+
+🥇 **1er Lugar — Claude Impact Lab CDMX**
+> Construimos **[GeoJusticia](https://github.com/TeddyArellano/GeoJusticia-Claude-Impact-Lab-CDMX)**, una plataforma que usa datos de **Locatel (0311)** para transformar reportes ciudadanos en información territorial accionable, ayudando a las alcaldías a priorizar problemas urbanos y evitar reportes duplicados mediante analítica de datos. Construido en un solo día con datasets reales de gobierno. 🇲🇽
+
+🎖️ **IBM Z Student Ambassador**
+> Badges **IBM Z Concepts** y **Advanced** en tecnologías mainframe; promoción del *enterprise computing* a través de divulgación académica y en redes.
+
+🎓 **CETIEM — Student Program**
+> Organización de eventos tecnológicos que conectan a estudiantes con la industria y participación en eventos tech de la CDMX.
+
+🛒 **Ex-Fundador & E-Commerce Manager — ShopWTM**
+> Atendí a 1,500+ clientes en 13 meses optimizando campañas con métricas (CPC, CTR, ROAS).
+
+---
+
+### 🎥 Content Creator
+
+Comparto mi día a día como estudiante de tecnología, consejos para programadores y cobertura de eventos tech (IBM Innovation Day, Hackathon de Talent Land, brigadas de soporte comunitario) para impulsar a la **comunidad STEM** en México.
+
+<p align="center">
+  <a href="https://linktr.ee/teddyarellano"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://www.instagram.com/teddyarellano"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</p>
 
 ---
 
@@ -38,97 +74,67 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| 🤖 **[LLM-Based Content Analytics Pipeline](https://github.com/TeddyArellano)** | Multi-stage pipeline using LLMs and agents to collect, clean, and analyze social media video performance data. Generates data-driven content ideas and scripts based on historical metrics. | LLMs, Intelligent Agents, Data Analysis, Python |
-| 🌐 **[ESCOMPARTE](https://github.com/TeddyArellano/ESCOMPARTE)** | Full-stack web platform for the ESCOM-IPN community to exchange, donate, and sell electronic components and academic materials. Implemented with agile practices (Kanban, Design Thinking). | React, Node.js, PostgreSQL, Git, Kanban |
-| 📚 **[PolilibroApp](https://github.com/TeddyArellano/PolilibroApp)** | Android educational app for university-level Calculus learning with AI-driven personalized guidance and practical exercises. | Kotlin, XML, OpenAI API, Git |
-| 🛒 **PrintaLab 3D Platform** | Led development of a full-stack e-commerce and online learning platform for a 3D design and printing company (70% completion). | React, Node.js, PostgreSQL |
+| 🏆 **[GeoJusticia](https://github.com/TeddyArellano/GeoJusticia-Claude-Impact-Lab-CDMX)** | Plataforma ganadora del Claude Impact Lab CDMX: convierte reportes ciudadanos (Locatel 0311) en analítica territorial para priorización urbana. | Python, Jupyter, HTML/JS, Data Analysis |
+| 🌐 **[ESCOMPARTE](https://github.com/TeddyArellano/ESCOMPARTE)** | Plataforma full-stack para la comunidad ESCOM-IPN para intercambiar, donar y vender componentes electrónicos. Metodologías ágiles (Kanban, Design Thinking). | React, Node.js, PostgreSQL |
+| 📚 **[PolilibroApp](https://github.com/TeddyArellano/PolilibroApp)** | App Android educativa para Cálculo con asistente de IA (OpenAI) y guía personalizada. | Kotlin, OpenAI API |
+| 🎵 **[Afinador Musical FFT](https://github.com/TeddyArellano/Afinador-Musical-FFT)** | Afinador en tiempo real usando la Transformada Rápida de Fourier para detección de frecuencias. | Python, DSP |
+| 🧮 **[Algoritmos & Optimización](https://github.com/TeddyArellano?tab=repositories)** | Programación dinámica (Independent Set) y scheduling en multiprocesadores homogéneos. | Python, Análisis de Algoritmos |
 
 ---
 
----
+### 🧰 Stack Tecnológico
 
-### 🌟 Leadership & Volunteering
-
-🏆 **[IBM Z Student Ambassador](https://www.linkedin.com/posts/jarellanojr_ibmz-ibm-studentambassador-activity-7373084641546670080-RHlJ)**  
-- Earned IBM Z Concepts and Advanced badges in mainframe technologies  
-- Promoted enterprise computing awareness through academic and social media outreach
-
-🎓 **CETIEM - Student Program**  
-- Organized technology-focused events connecting students with the tech industry  
-- Volunteered in external tech events in Mexico City
-
----
-
-## 🚀 Habilidades Técnicas
-
-<h3 align="center">🧑‍💻 Lenguajes de programación 🧑‍💻</h3>
+<h4 align="center">Lenguajes</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
 
----
-
-<h3 align="center">🛠️ Herramientas & Tecnologías 🛠️</h3>
+<h4 align="center">Data, Analytics & AI</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-00426A?style=for-the-badge&logo=matplotlib&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
----
-
-<h3 align="center">🎨 Web Development 🎨</h3>
+<h4 align="center">Web & Mobile</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </p>
 
----
-
-<h3 align="center">🗄️ Bases de Datos 🗄️</h3>
+<h4 align="center">Bases de Datos & Herramientas</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
 ---
 
-<h3 align="center">📊 Data Science & AI 📊</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-00426A?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-</p>
-
----
-
-<h3 align="center">🎓 Coursework & Certifications 🎓</h3>
-<p align="center">
-  📚 <strong>Machine Learning</strong> - CIC IPN | <strong>Deep Learning</strong> - CIC IPN<br/>
-  🏆 <strong>IBM Z Concepts Badge</strong> | <strong>IBM Z Advanced Badge</strong>
-</p>
-
----
-
-### 📈 Estadísticas de GitHub
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TeddyArellano&show_icons=true&theme=tokyonight&hide=prs,issues" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeddyArellano&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TeddyArellano&theme=tokyonight" />
 </p>
 
 ---
@@ -136,11 +142,11 @@
 ### 📬 Conecta conmigo
 
 <p align="center">
-  <a href="https://linktr.ee/teddyarellano"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
-  <a href="mailto:jarellanojr2109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jarellanojr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linktr.ee/teddyarellano"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://www.instagram.com/teddyarellano"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:jarellanojr2109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/TeddyArellano"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="tel:+525567806994"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center">
